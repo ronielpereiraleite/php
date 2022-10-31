@@ -7,7 +7,7 @@ body {
 }
 
 div::before {
-    content: " meus primeirostestes - by Roniel Pereira Leite ";  /*barrinha do cabeçalho*/
+    content: " meus primeiros testes - by Roniel Pereira Leite ";  /*barrinha do cabeçalho*/
     font: 10pt Arial;
     font-weight: bold;
     color: white;
@@ -53,7 +53,7 @@ span.foco {
 }
 @media acreen and (max-height: 600px){ /*tamanho de tela prara celular*/
 	div{
-		margin: auto auto auto auto;
+		margin: 10px auto 10px auto;
 		text-align: center;
 		width 97%;
 	}
