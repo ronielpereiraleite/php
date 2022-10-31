@@ -52,7 +52,7 @@ span.foco {
 	}
 }
 @media acreen and (max-height: 600px){ /*tamanho de tela prara celular*/
-	body{
+	div{
 		margin: auto auto auto auto;
 		text-align: center;
 		width 97%;
