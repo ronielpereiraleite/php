@@ -48,13 +48,12 @@ span.foco {
 	div{
 		margin: 0 0 0 0;
 		width: 97%;
-		height: 94%;
-				
+						
 	}
 }
 @media acreen and (max-height: 600px){ /*tamanho de tela prara celular*/
 	div{
-		float: none;
+		margin: 0 0 0 0;
 		text-align: center;
 		width 100%;
 	}
