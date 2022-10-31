@@ -12,7 +12,7 @@
 <tela>
 	<?php
 		
-        echo"teste de php funciona 7";
+        echo"teste de php funciona 12";
     ?>
 </tela>
 </div>
