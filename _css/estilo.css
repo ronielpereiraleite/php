@@ -25,7 +25,7 @@ div {
     margin: 100px auto 100px auto;
     padding: 10px;
     width: 550px;
-    min-height:3000px;
+    min-height:300px;
 }
 
 a {
@@ -44,11 +44,18 @@ span.foco {
     color: #7e050c;
 }
 
-@media screen and (max-width: 768px){
-	body{
-		margin: auto auto auto auto;
+@media screen and (max-width: 768px){  /*tamanho de tela prara tablet*/
+	div{
+		margin: 0 0 0 0;
 		width: 97%;
 		height: 94%;
 				
 	}
 }
+@media acreen and (max-height: 600px){ /*tamanho de tela prara celular*/
+	div{
+		float: none;
+		text-align: center;
+		width 100%;
+	}
+} 

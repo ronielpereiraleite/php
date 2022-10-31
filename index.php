@@ -7,9 +7,12 @@
 </head>
 <body>
 <div>
+<tela>
 	<?php
+		
         echo"teste de php funciona 7";
     ?>
+</tela>
 </div>
 </body>
 </html>
